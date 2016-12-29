@@ -3,7 +3,7 @@ package Model;
 import java.util.HashMap;
 
 public class Document {
-	HashMap<Integer, Integer> topics = new HashMap<Integer,Integer>();
+    HashMap<Integer, Integer> topics = new HashMap<Integer,Integer>();
     HashMap<Integer,Integer> words = new HashMap<Integer,Integer>(); 
     HashMap<Integer,Integer> tf = new HashMap<Integer,Integer>();
     public Document(String[] words){
