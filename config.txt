@@ -1,0 +1,17 @@
+numOfTop = 10
+numOfTopic = 10
+numOfIter = 10
+inputFileWord = old_less.txt
+inputFileId = file_id.txt
+mappingFile = mapping.txt
+outputTheta = theta.txt
+outputThetaT = thetaT.txt
+outputPhi = phi.txt
+outputPhiT = topPhiT.txt
+inputFileWordNew = new_less.txt
+inputFileIdNew = file_id_new.txt
+mappingFileNew = mapping_new.txt
+alpha = 0.1
+beta = 0.001
+alphaT = 0.1
+betaT = 0.001
